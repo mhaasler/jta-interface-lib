@@ -1,6 +1,6 @@
 from abc import ABC, abstractmethod
 
-class MyInterface(ABC):
+class ProviderInterface(ABC):
     @abstractmethod
     def getEndpoints(self):
         """Sollte eine Liste oder ein Dictionary von Endpoints zurückgeben."""
