@@ -1,2 +1,2 @@
 # jta-interface-lib
-interfaces for json transformer applikation
+interfaces for json transformer application
