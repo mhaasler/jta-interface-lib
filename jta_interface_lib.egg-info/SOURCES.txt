@@ -1,0 +1,6 @@
+README.md
+setup.py
+jta_interface_lib.egg-info/PKG-INFO
+jta_interface_lib.egg-info/SOURCES.txt
+jta_interface_lib.egg-info/dependency_links.txt
+jta_interface_lib.egg-info/top_level.txt
